@@ -1,3 +1,3 @@
-# xPlanet-libs
-xPlanet-libs
--------------
+# Xplanet Libs
+
+npm packages of Xplanet Project collection
